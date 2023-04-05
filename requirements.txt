@@ -1,0 +1,11 @@
+matplotlib==3.3.4
+numpy==1.19.5
+Pillow ==8.3.1
+protobuf==3.19.6
+rasterio==1.2.10
+tensorboard==2.10.1
+torch==1.10.2
+torchvision==0.11.3
+tqdm==4.64.1
+wheel==0.37.1
+zipp==3.6.0
